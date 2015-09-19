@@ -1,0 +1,30 @@
+{
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saikojosh/Parse-Bool.git"
+  },
+  "bugs": {
+    "url": "https://github.com/saikojosh/Parse-Bool/issues"
+  },
+  "name": "parse-bool",
+  "version": "0.0.1",
+  "description": "Converts a string representation of a bool into a Boolean value.",
+  "keywords": [
+    "parsebool",
+    "parse",
+    "bool",
+    "string"
+  ],
+  "main": "parseBool.js",
+  "author": "Josh Cole <saikojosh@gmail.com> (http://www.JoshuaCole.me)",
+  "contributors": [
+    {
+      "name": "Josh Cole",
+      "email": "saikojosh@gmail.com"
+    }
+  ],
+  "dependencies": {
+
+  },
+  "license": "MIT"
+}
