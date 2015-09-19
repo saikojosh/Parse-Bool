@@ -7,7 +7,7 @@
     "url": "https://github.com/saikojosh/Parse-Bool/issues"
   },
   "name": "parse-bool",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Converts a string representation of a bool into a Boolean value.",
   "keywords": [
     "parsebool",
@@ -23,8 +23,6 @@
       "email": "saikojosh@gmail.com"
     }
   ],
-  "dependencies": {
-
-  },
+  "dependencies": {},
   "license": "MIT"
 }
