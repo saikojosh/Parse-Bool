@@ -18,7 +18,7 @@ module.exports = function (input) {
     case 'false': return false;
 
     case null:
-    case 'null'   return null;
+    case 'null':  return null;
 
   }
 
